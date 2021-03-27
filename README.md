@@ -9,8 +9,6 @@ Documento:
 
 Script: 
 
-Dataset: 
-
 ## Links
 Vídeo de Apresentação do Trabalho: https://www.youtube.com/watch?v=Jq4aKxaoLGM&t=973s
 

@@ -11,6 +11,6 @@ Autor: Cléo Oliveira Maciel
 
 
 ## Links
-Vídeo de Apresentação do Trabalho: https://www.youtube.com/watch?v=Jq4aKxaoLGM&t=973s
+[Vídeo de Apresentação do Trabalho](https://www.youtube.com/watch?v=Jq4aKxaoLGM&t=973s)
 
-Fonte do Dataset: https://opendatasus.saude.gov.br/nl/dataset/bd-srag-2020
+[Fonte do Dataset](https://opendatasus.saude.gov.br/nl/dataset/bd-srag-2020)

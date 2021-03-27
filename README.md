@@ -5,7 +5,7 @@ Trabalho de Conclusão de Curso apresentado ao Curso de Especialização em Ciê
 Autor: Cléo Oliveira Maciel
 
 ## Arquivos
-[Documento]
+[Relatório]
 
 [Script]
 

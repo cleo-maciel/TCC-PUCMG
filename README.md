@@ -5,12 +5,12 @@ Trabalho de Conclusão de Curso apresentado ao Curso de Especialização em Ciê
 Autor: Cléo Oliveira Maciel
 
 ## Arquivos
-[Documento](https://github.com/cleo-maciel/TCC-PUCMG/blob/main/TCC%20-%20Cleo%20Maciel.doc)
+[Documento]
 
 [Script]
 
 
 ## Links
-[Vídeo de Apresentação do Trabalho](https://www.youtube.com/watch?v=Jq4aKxaoLGM&t=973s)
+[Vídeo de Apresentação do Trabalho]
 
 [Fonte do Dataset](https://opendatasus.saude.gov.br/nl/dataset/bd-srag-2020)

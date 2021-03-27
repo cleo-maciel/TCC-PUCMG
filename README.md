@@ -5,9 +5,10 @@ Trabalho de Conclusão de Curso apresentado ao Curso de Especialização em Ciê
 Autor: Cléo Oliveira Maciel
 
 ## Arquivos
-Documento: [TCC](https://github.com/cleo-maciel/TCC-PUCMG/blob/main/TCC%20-%20Cleo%20Maciel.doc)
+[Documento](https://github.com/cleo-maciel/TCC-PUCMG/blob/main/TCC%20-%20Cleo%20Maciel.doc)
 
-Script:
+[Script]
+
 
 ## Links
 Vídeo de Apresentação do Trabalho: https://www.youtube.com/watch?v=Jq4aKxaoLGM&t=973s

@@ -11,7 +11,7 @@ Autor: Cléo Oliveira Maciel
 
 [Dataset](https://drive.google.com/drive/folders/12ZgRfxsqpI6UiVtJVs6b4PxH9lJpZT12?usp=sharing)
 
-Obs.: Como o dataset (630MG) excede o limite de armazenamento de arquivos do Github (25MB), o arquivo utilizado foi compartilhado no Google Drive.
+Obs.: Como o dataset (630MG) excede o limite de armazenamento de arquivos do Github (25MB), o arquivo utilizado foi compartilhado nesta pasta do Google Drive.
 
 ## Links
 [Vídeo de Apresentação do Trabalho]
